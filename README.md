@@ -11,7 +11,7 @@ Right now I'm building **Hedge AI** and **Exambo**, which recently raised a seed
 
 **Place of Birth:** Vienna, Austria (Wien)
 
-**Nationality** Estonian, Australian, and American
+**Nationality:** Estonian, Australian, and American
 
-### Hobby
-Brawlhalla
+### In Progess Reading  
+The Turing Test: Verbal Behavior as the Hallmark of Intelligence
