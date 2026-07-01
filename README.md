@@ -8,7 +8,9 @@ Right now I'm building **Hedge AI** and **Exambo**, which recently raised a seed
 
 ### Location
 **Current:** San Francisco Bay Area, California
+
 **Place of Birth:** Vienna, Austria (Wien)
+
 **Nationality** Estonian, Australian, and American
 
 ### Hobby
