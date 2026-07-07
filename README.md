@@ -2,7 +2,7 @@
 
 Hi! I'm originally from Vienna, Austria, but now live mostly in London.
 
-Right now I'm building **Eonic** and **Exambo**, which recently raised a seed round at **$2M**.
+Right now I'm building **Eonic** and **Exambo**, which recently raised.
 
 ---
 
