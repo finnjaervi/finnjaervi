@@ -1,4 +1,4 @@
 # Finn Järvi
 
-Hi! I'm originally from Vienna, Austria, but now live mostly in London.
-
+Active on X, repositories are private. 
+Contact me for access to projects. 
